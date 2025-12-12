@@ -43,9 +43,3 @@ I am a versatile developer with a passion for building immersive worlds and inte
 #### 🧠 Problem Solving
 ![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-success?style=for-the-badge)
 ![Competitive Coding](https://img.shields.io/badge/Competitive%20Coding-Active-critical?style=for-the-badge)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanksolanki9853&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanksolanki9853&layout=compact&theme=radical" height="180" alt="languages graph"  />
-</div>
----
