@@ -45,11 +45,7 @@ I am a versatile developer with a passion for building immersive worlds and inte
 ![Competitive Coding](https://img.shields.io/badge/Competitive%20Coding-Active-critical?style=for-the-badge)
 
 <div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanksolanki9853&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanksolanki9853&show_icons=true&theme=radical" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanksolanki9853&layout=compact&theme=radical" height="180" alt="languages graph"  />
 </div>
-
-</div>
-
 ---
