@@ -47,8 +47,8 @@ I am a versatile developer with a passion for building immersive worlds and inte
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanksolanki9853&show_icons=true&theme=radical&hide_border=true" height="160" alt="Priyank Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanksolanki9853&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanksolanki9853&show_icons=true&theme=radical&hide_border=true" height="160" alt="Priyank Github Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanksolanki9853&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 ---
